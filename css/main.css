@@ -33,3 +33,7 @@ div > strong {
 a + href {
   background-color: #719e07;
 }
+
+ul li ~ a [href="index.html"] {
+  background-color: #719e07;
+}
