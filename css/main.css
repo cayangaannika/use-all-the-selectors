@@ -25,6 +25,11 @@ ul nav {
 main div p .dfn {
   background-color: #b58900;
 }
+
 div > strong {
   color: #fff;
+}
+
+a + href {
+  background-color: #719e07;
 }
