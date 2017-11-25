@@ -1,0 +1,39 @@
+body {
+  background-color: #fdf6e3;
+}
+
+header, footer {
+  font-size: 1.5rem;
+}
+
+ul nav {
+  font-family: sans-serif;
+}
+
+.header {
+  text-transform: uppercase;
+}
+
+.main {
+  background-color: #eee8d5;
+}
+
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
+}
+
+main div p .dfn {
+  background-color: #b58900;
+}
+
+div > strong {
+  color: #fff;
+}
+
+a + href {
+  background-color: #719e07;
+}
+
+ul li ~ a [href="index.html"] {
+  background-color: #719e07;
+}
