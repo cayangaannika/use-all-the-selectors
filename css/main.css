@@ -33,3 +33,7 @@ strong:last-child {
 a {
   background-color: #719e07;
 }
+
+a .no-highlight {
+  background-color: none;
+}
