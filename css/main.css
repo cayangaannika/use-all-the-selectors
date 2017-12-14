@@ -30,7 +30,7 @@ div > strong {
   color: #fff;
 }
 
-a + href {
+a href {
   background-color: #719e07;
 }
 
